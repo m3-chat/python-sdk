@@ -2,7 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/m3chat_sdk.svg)](https://pypi.org/project/m3chat_sdk/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/m3-chat/python-sdk/publish.yml?branch=main)](https://github.com/m3-chat/python-sdk/actions)
+[![Publish to PyPI](https://github.com/m3-chat/python-sdk/actions/workflows/publish.yml/badge.svg)](https://github.com/m3-chat/python-sdk/actions/workflows/publish.yml)
 
 **Official Python SDK for [M3 Chat](https://m3-chat.vercel.app)** – Stream and fetch AI-generated responses from models like LLaMA, Mistral, Gemma, and more.
 
